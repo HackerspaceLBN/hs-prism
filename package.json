@@ -1,0 +1,19 @@
+{
+  "name": "hsprism",
+  "version": "1.0.0",
+  "description": "System to detect who is in Hackerspace Lublin",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sptq <marcin@hackerspace-lbn.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "arp-listener": "^1.0.0",
+    "axios": "^0.15.3",
+    "lodash": "^4.17.4"
+  }
+}
